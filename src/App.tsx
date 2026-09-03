@@ -295,7 +295,7 @@ export default function App() {
   const [showResultsModal, setShowResultsModal] = useState(false);
   const [showClearScreen, setShowClearScreen] = useState(false);
   const [clearUrl, setClearUrl] = useState<string>(
-    () => localStorage.getItem("shogi_clear_url") || "https://ais-pre-e33pm4ybmbloliwg56zgz7-87151204104.asia-northeast1.run.app/complete?book=06"
+    () => localStorage.getItem("shogi_clear_url") || "https://ais-pre-e33pm4ybmbloliwg56zgz7-87151204104.asia-northeast1.run.app/complete?book=07"
   );
   const [isRandomMode, setIsRandomMode] = useState(false);
   const [promotionPending, setPromotionPending] = useState<{
