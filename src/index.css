@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Kosugi Maru", "Helvetica Neue", Arial, sans-serif;
+}

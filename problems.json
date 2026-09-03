@@ -1,0 +1,2492 @@
+[
+  {
+    "id": 1777780196228,
+    "name": "第151問",
+    "board": {
+      "1,0": {
+        "type": "PP",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "N",
+        "enemy": false
+      },
+      "4,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "G"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196229,
+    "name": "第152問",
+    "board": {
+      "2,0": {
+        "type": "G",
+        "enemy": true
+      },
+      "0,1": {
+        "type": "PB",
+        "enemy": false
+      },
+      "1,1": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "S",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "PR",
+        "enemy": false
+      },
+      "2,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,4": {
+        "type": "N",
+        "enemy": false
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196230,
+    "name": "第153問",
+    "board": {
+      "0,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "PB",
+        "enemy": false
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "4,3": {
+        "type": "P",
+        "enemy": false
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "G"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196231,
+    "name": "第154問",
+    "board": {
+      "3,0": {
+        "type": "R",
+        "enemy": true
+      },
+      "4,0": {
+        "type": "B",
+        "enemy": false
+      },
+      "0,1": {
+        "type": "S",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "P",
+        "enemy": false
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "L"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196232,
+    "name": "第155問",
+    "board": {
+      "0,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "2,0": {
+        "type": "R",
+        "enemy": true
+      },
+      "4,0": {
+        "type": "PB",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "P",
+        "enemy": false
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,4": {
+        "type": "N",
+        "enemy": false
+      }
+    },
+    "hand": [
+      "N"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196233,
+    "name": "第156問",
+    "board": {
+      "3,0": {
+        "type": "G",
+        "enemy": true
+      },
+      "0,1": {
+        "type": "S",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "L",
+        "enemy": false
+      },
+      "2,2": {
+        "type": "N",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,3": {
+        "type": "B",
+        "enemy": false
+      }
+    },
+    "hand": [
+      "S"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196234,
+    "name": "第157問",
+    "board": {
+      "0,0": {
+        "type": "PR",
+        "enemy": false
+      },
+      "3,0": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "0,2": {
+        "type": "B",
+        "enemy": false
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196235,
+    "name": "第158問",
+    "board": {
+      "0,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "P",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "S",
+        "enemy": false
+      },
+      "4,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "N",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "N",
+        "enemy": false
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "B"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196236,
+    "name": "第159問",
+    "board": {
+      "0,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "3,0": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "PP",
+        "enemy": false
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,4": {
+        "type": "N",
+        "enemy": false
+      }
+    },
+    "hand": [
+      "G"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196237,
+    "name": "第160問",
+    "board": {
+      "2,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "0,1": {
+        "type": "PR",
+        "enemy": false
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "L",
+        "enemy": false
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196238,
+    "name": "第161問",
+    "board": {
+      "4,0": {
+        "type": "R",
+        "enemy": true
+      },
+      "0,1": {
+        "type": "R",
+        "enemy": false
+      },
+      "2,2": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": false
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "B"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196239,
+    "name": "第162問",
+    "board": {
+      "0,1": {
+        "type": "R",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "S",
+        "enemy": false
+      },
+      "2,2": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": false
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196240,
+    "name": "第163問",
+    "board": {
+      "0,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "1,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "P",
+        "enemy": false
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "N",
+        "enemy": false
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,4": {
+        "type": "L",
+        "enemy": false
+      },
+      "4,2": {
+        "type": "S",
+        "enemy": true
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196241,
+    "name": "第164問",
+    "board": {
+      "0,0": {
+        "type": "PR",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "N",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "G"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196242,
+    "name": "第165問",
+    "board": {
+      "0,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,0": {
+        "type": "PP",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "R"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196243,
+    "name": "第166問",
+    "board": {
+      "0,0": {
+        "type": "PR",
+        "enemy": false
+      },
+      "1,1": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "N",
+        "enemy": false
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "S",
+        "enemy": false
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196244,
+    "name": "第167問",
+    "board": {
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "0,2": {
+        "type": "PB",
+        "enemy": false
+      },
+      "2,2": {
+        "type": "N",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,3": {
+        "type": "PB",
+        "enemy": false
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196245,
+    "name": "第168問",
+    "board": {
+      "0,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "N",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "P",
+        "enemy": false
+      },
+      "0,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "N",
+        "enemy": false
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "4,3": {
+        "type": "B",
+        "enemy": false
+      },
+      "4,2": {
+        "type": "S",
+        "enemy": true
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196246,
+    "name": "第169問",
+    "board": {
+      "3,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "N",
+        "enemy": false
+      },
+      "4,2": {
+        "type": "P",
+        "enemy": false
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "R"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196247,
+    "name": "第170問",
+    "board": {
+      "1,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "N",
+        "enemy": false
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "4,3": {
+        "type": "B",
+        "enemy": false
+      },
+      "5,0": {
+        "type": "PR",
+        "enemy": false
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196248,
+    "name": "第171問",
+    "board": {
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "PB",
+        "enemy": false
+      },
+      "3,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "N",
+        "enemy": false
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "4,3": {
+        "type": "B",
+        "enemy": false
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196249,
+    "name": "第172問",
+    "board": {
+      "0,0": {
+        "type": "PP",
+        "enemy": false
+      },
+      "2,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "PP",
+        "enemy": false
+      },
+      "1,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "G"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196250,
+    "name": "第173問",
+    "board": {
+      "0,0": {
+        "type": "PP",
+        "enemy": false
+      },
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "S",
+        "enemy": false
+      },
+      "1,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "B",
+        "enemy": false
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "L",
+        "enemy": false
+      },
+      "4,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196251,
+    "name": "第174問",
+    "board": {
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "B",
+        "enemy": false
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "L",
+        "enemy": false
+      }
+    },
+    "hand": [
+      "R"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196252,
+    "name": "第175問",
+    "board": {
+      "0,0": {
+        "type": "PP",
+        "enemy": false
+      },
+      "1,0": {
+        "type": "G",
+        "enemy": false
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "PP",
+        "enemy": false
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "G",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,4": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "B"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196253,
+    "name": "第176問",
+    "board": {
+      "1,0": {
+        "type": "PP",
+        "enemy": false
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "0,1": {
+        "type": "S",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "G",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "N",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,3": {
+        "type": "B",
+        "enemy": false
+      },
+      "2,4": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "S",
+        "enemy": true
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196254,
+    "name": "第177問",
+    "board": {
+      "0,0": {
+        "type": "PP",
+        "enemy": false
+      },
+      "2,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,0": {
+        "type": "S",
+        "enemy": false
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "PP",
+        "enemy": false
+      },
+      "1,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "B",
+        "enemy": false
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "B",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "N"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196255,
+    "name": "第178問",
+    "board": {
+      "2,0": {
+        "type": "B",
+        "enemy": false
+      },
+      "1,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "5,1": {
+        "type": "S",
+        "enemy": false
+      },
+      "1,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "K",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "L",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "N",
+        "enemy": false
+      },
+      "5,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196256,
+    "name": "第179問",
+    "board": {
+      "4,0": {
+        "type": "PR",
+        "enemy": false
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,4": {
+        "type": "R",
+        "enemy": false
+      }
+    },
+    "hand": [
+      "N"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196257,
+    "name": "第180問",
+    "board": {
+      "2,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "PP",
+        "enemy": false
+      },
+      "1,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "4,3": {
+        "type": "B",
+        "enemy": false
+      }
+    },
+    "hand": [
+      "G"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196258,
+    "name": "第181問",
+    "board": {
+      "0,0": {
+        "type": "R",
+        "enemy": false
+      },
+      "1,0": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,0": {
+        "type": "PP",
+        "enemy": false
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "B",
+        "enemy": false
+      }
+    },
+    "hand": [
+      "S"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196259,
+    "name": "第182問",
+    "board": {
+      "3,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "PP",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "S",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "B",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "B",
+        "enemy": false
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "4,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "S"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196260,
+    "name": "第183問",
+    "board": {
+      "3,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "PP",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "B",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "R",
+        "enemy": false
+      },
+      "4,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "N"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196261,
+    "name": "第184問",
+    "board": {
+      "3,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "PP",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "B",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "R"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196262,
+    "name": "第185問",
+    "board": {
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "S",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "0,2": {
+        "type": "PB",
+        "enemy": false
+      },
+      "2,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,4": {
+        "type": "N",
+        "enemy": false
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196263,
+    "name": "第186問",
+    "board": {
+      "3,0": {
+        "type": "S",
+        "enemy": true
+      },
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "1,1": {
+        "type": "S",
+        "enemy": false
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "0,2": {
+        "type": "PB",
+        "enemy": false
+      },
+      "2,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "B"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196264,
+    "name": "第187問",
+    "board": {
+      "2,0": {
+        "type": "R",
+        "enemy": false
+      },
+      "3,0": {
+        "type": "S",
+        "enemy": true
+      },
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "PB",
+        "enemy": false
+      },
+      "3,2": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "4,4": {
+        "type": "P",
+        "enemy": false
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196265,
+    "name": "第188問",
+    "board": {
+      "3,0": {
+        "type": "S",
+        "enemy": true
+      },
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "0,2": {
+        "type": "PB",
+        "enemy": false
+      },
+      "4,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,4": {
+        "type": "R",
+        "enemy": false
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196266,
+    "name": "第189問",
+    "board": {
+      "0,0": {
+        "type": "R",
+        "enemy": false
+      },
+      "2,0": {
+        "type": "S",
+        "enemy": false
+      },
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "1,2": {
+        "type": "P",
+        "enemy": false
+      },
+      "2,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "S",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196267,
+    "name": "第190問",
+    "board": {
+      "2,0": {
+        "type": "R",
+        "enemy": false
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "G",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "L",
+        "enemy": true
+      },
+      "4,3": {
+        "type": "N",
+        "enemy": false
+      }
+    },
+    "hand": [
+      "S"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196268,
+    "name": "第191問",
+    "board": {
+      "3,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "S",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "N",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "G",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "1,3": {
+        "type": "B",
+        "enemy": false
+      },
+      "4,3": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "R"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196269,
+    "name": "第192問",
+    "board": {
+      "1,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "3,0": {
+        "type": "S",
+        "enemy": false
+      },
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "S",
+        "enemy": false
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,3": {
+        "type": "G",
+        "enemy": true
+      },
+      "3,4": {
+        "type": "N",
+        "enemy": false
+      }
+    },
+    "hand": [
+      "B"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196270,
+    "name": "第193問",
+    "board": {
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "5,1": {
+        "type": "P",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "G",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "PR",
+        "enemy": false
+      },
+      "4,3": {
+        "type": "N",
+        "enemy": false
+      },
+      "3,4": {
+        "type": "B",
+        "enemy": false
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196271,
+    "name": "第194問",
+    "board": {
+      "4,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "L",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "PB",
+        "enemy": false
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": false
+      },
+      "2,0": {
+        "type": "PP",
+        "enemy": false
+      },
+      "4,4": {
+        "type": "N",
+        "enemy": false
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196272,
+    "name": "第195問",
+    "board": {
+      "4,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,2": {
+        "type": "PB",
+        "enemy": false
+      },
+      "4,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,3": {
+        "type": "N",
+        "enemy": false
+      },
+      "5,3": {
+        "type": "P",
+        "enemy": true
+      },
+      "3,2": {
+        "type": "G",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "G"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196273,
+    "name": "第196問",
+    "board": {
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "4,1": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "P",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": false
+      },
+      "3,3": {
+        "type": "R",
+        "enemy": false
+      },
+      "4,3": {
+        "type": "G",
+        "enemy": true
+      },
+      "2,0": {
+        "type": "PB",
+        "enemy": false
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196274,
+    "name": "第197問",
+    "board": {
+      "2,0": {
+        "type": "PP",
+        "enemy": false
+      },
+      "4,0": {
+        "type": "K",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "3,1": {
+        "type": "G",
+        "enemy": true
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": false
+      },
+      "4,4": {
+        "type": "N",
+        "enemy": false
+      },
+      "4,5": {
+        "type": "L",
+        "enemy": false
+      }
+    },
+    "hand": [],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  },
+  {
+    "id": 1777780196276,
+    "name": "第199問",
+    "board": {
+      "4,0": {
+        "type": "N",
+        "enemy": true
+      },
+      "5,0": {
+        "type": "L",
+        "enemy": true
+      },
+      "2,1": {
+        "type": "S",
+        "enemy": false
+      },
+      "1,2": {
+        "type": "S",
+        "enemy": false
+      },
+      "2,2": {
+        "type": "K",
+        "enemy": true
+      },
+      "4,2": {
+        "type": "S",
+        "enemy": false
+      },
+      "5,2": {
+        "type": "P",
+        "enemy": true
+      }
+    },
+    "hand": [
+      "B"
+    ],
+    "solution": {
+      "from": null,
+      "to": "0,0",
+      "pieceType": "P"
+    }
+  }
+]
